@@ -1,0 +1,12 @@
+<resources>
+
+    <!--Default Top Level application theme-->
+    <style name="Theme.NICardManagementSDK.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <!-- Custom attributes -->
+        <item name="colorDisabledImageButton">@color/gray4</item>
+    </style>
+</resources>
